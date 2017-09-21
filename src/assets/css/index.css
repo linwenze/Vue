@@ -1,0 +1,13 @@
+h1{
+    color: #999;
+}
+.setBG1{
+  width:119px;height:20px;
+  background:  url(../imgs/1.png);
+  
+}
+.setBG2{
+  width:420px;height:420px;
+  background:  url(../imgs/code.jpg);
+
+}
