@@ -20,7 +20,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App666'
+      msg: 'Welcome to Your Vue.js App666333'
     }
   },
   components:{
